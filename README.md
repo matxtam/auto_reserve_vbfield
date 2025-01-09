@@ -52,7 +52,7 @@ python3 field_info.py
     * Initial Release
  
 ## Roadmap
-[x] auto login/out
-[ ] UI for field preference selection
-[ ] auto select fields
-[x] generate field list
+- [x] auto login/out
+- [ ] UI for field preference selection
+- [ ] auto select fields
+- [x] generate field list
